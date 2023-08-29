@@ -1,0 +1,599 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<!-- your language name, in this format: ISO 639 | english spelling | native spelling -->
+	<data name="Language name" xml:space="preserve">
+    <value>ja | Japanese | 日本語</value>
+  </data>
+	<!-- change right-click menu width, if necessary -->
+	<data name="Menu width" xml:space="preserve">
+    <value>163</value>
+  </data>
+	<!-- change Help window width if necessary -->
+	<data name="Help window width" xml:space="preserve">
+    <value>450</value>
+  </data>
+	<!-- Right-click menu -->
+	<data name="Right mouse button" xml:space="preserve">
+    <value>右クリックメニュー</value>
+  </data>
+	<data name="Menu" xml:space="preserve">
+    <value>メニュー</value>
+  </data>
+	<data name="Use as wallpaper" xml:space="preserve">
+    <value>壁紙にする</value>
+  </data>
+	<data name="Paste clipboard" xml:space="preserve">
+    <value>クリップボードに貼付</value>
+  </data>
+	<data name="pasted image" xml:space="preserve">
+    <value>画像貼付</value>
+  </data>
+	<data name="Copy to clipboard" xml:space="preserve">
+    <value>クリップボードにコピー</value>
+  </data>
+	<data name="Save as" xml:space="preserve">
+    <value>別名保存</value>
+  </data>
+  <data name="Open with" xml:space="preserve">
+    <value>別アプリで開く</value>
+  </data>
+  <data name="Image must be saved first" xml:space="preserve">
+    <value>先に画像を開いてください</value>
+  </data>
+  <data name="Show in folder" xml:space="preserve">
+    <value>フォルダを開く</value>
+  </data>
+  <data name="Copy selection to clipboard" xml:space="preserve">
+    <value>Copy selection</value>
+  </data>
+	<data name="Save selection as" xml:space="preserve">
+    <value>選択保存</value>
+  </data>
+	<data name="Use selection as wallpaper" xml:space="preserve">
+    <value>Use selection as wallpaper</value>
+  </data>
+	<data name="Open" xml:space="preserve">
+    <value>開く</value>
+  </data>
+	<data name="Delete" xml:space="preserve">
+    <value>削除</value>
+  </data>
+	<data name="Delete selection" xml:space="preserve">
+    <value>選択削除</value>
+  </data>
+	<data name="Crop selection" xml:space="preserve">
+    <value>Crop selection</value>
+  </data>
+	<data name="Crop alternative" xml:space="preserve">
+    <value>クロップ</value>
+  </data>
+	<data name="Crop free" xml:space="preserve">
+    <value>自由切り抜き</value>
+  </data>
+	<data name="Crop" xml:space="preserve">
+    <value>切り抜き</value>
+  </data>
+	<data name="Crop A4 lying" xml:space="preserve">
+    <value>Crop A4 landskap</value>
+  </data>
+	<data name="Crop A4 standing" xml:space="preserve">
+    <value>Crop A4 portrait</value>
+  </data>
+	<data name="Rotate image" xml:space="preserve">
+    <value>画像回転</value>
+  </data>
+	<data name="Left" xml:space="preserve">
+    <value>左</value>
+  </data>
+	<data name="Right" xml:space="preserve">
+    <value>右</value>
+  </data>
+	<data name="Mirror horizontal" xml:space="preserve">
+    <value>左右反転</value>
+  </data>
+	<data name="Mirror vertical" xml:space="preserve">
+    <value>上下反転</value>
+  </data>
+	<data name="Resize image" xml:space="preserve">
+    <value>画像リサイズ</value>
+  </data>
+	<data name="Ok" xml:space="preserve">
+    <value>Ok</value>
+  </data>
+	<data name="Color adjustment" xml:space="preserve">
+    <value>色調整</value>
+  </data>
+	<!-- If you translate this, use the two first characters below (if possible) -->
+	<data name="Brightness/Contrast/Hue/Saturation/Gamma" xml:space="preserve">
+    <value>明るさ/コントラスト/色彩/鮮やかさ/ガンマ</value>
+  </data>
+	<data name="Br" xml:space="preserve">
+    <value>Br</value>
+  </data>
+	<data name="Co" xml:space="preserve">
+    <value>Co</value>
+  </data>
+	<data name="Hu" xml:space="preserve">
+    <value>Hu</value>
+  </data>
+	<data name="Sa" xml:space="preserve">
+    <value>Sa</value>
+  </data>
+	<data name="Ga" xml:space="preserve">
+    <value>Ga</value>
+  </data>
+	<data name="Temperature/Tint/Red/Green/Blue" xml:space="preserve">
+    <value>色温度/色合い/赤/緑/青</value>
+  </data>
+	<data name="Alpha(Opacity)" xml:space="preserve">
+    <value>アルファ(不透明度)</value>
+  </data>
+	<data name="Te" xml:space="preserve">
+    <value>温</value>
+  </data>
+	<data name="Ti" xml:space="preserve">
+    <value>色</value>
+  </data>
+	<data name="R" xml:space="preserve">
+    <value>赤</value>
+  </data>
+	<data name="G" xml:space="preserve">
+    <value>緑</value>
+  </data>
+	<data name="B" xml:space="preserve">
+    <value>青</value>
+  </data>
+	<data name="A" xml:space="preserve">
+    <value>ア</value>
+  </data>
+	<!-- color things end -->
+	<data name="Negative image" xml:space="preserve">
+    <value>Negative image</value>
+  </data>
+	<data name="Reset" xml:space="preserve">
+    <value>Reset</value>
+  </data>
+	<data name="Redo" xml:space="preserve">
+    <value>Redo</value>
+  </data>
+	<data name="Slideshow" xml:space="preserve">
+    <value>スライドショー</value>
+  </data>
+	<data name="Start/Stop" xml:space="preserve">
+    <value>Start/Stop</value>
+  </data>
+	<data name="Zoom effect" xml:space="preserve">
+    <value>ズームエフェクト</value>
+  </data>
+	<data name="Infinite loop" xml:space="preserve">
+    <value>ループ再生</value>
+  </data>
+  <data name="Random" xml:space="preserve">
+    <value>ランダム再生</value>
+  </data>
+	<data name="Background color" xml:space="preserve">
+    <value>背景色</value>
+  </data>
+	<data name="Black background" xml:space="preserve">
+    <value>黒背景に変更</value>
+  </data>
+	<data name="White background" xml:space="preserve">
+    <value>白背景に変更</value>
+  </data>
+	<data name="Transparent background" xml:space="preserve">
+    <value>透明背景に変更</value>
+  </data>
+	<data name="Border style" xml:space="preserve">
+    <value>枠スタイル</value>
+  </data>
+	<data name="Solid window" xml:space="preserve">
+    <value>通常スタイル</value>
+  </data>
+	<data name="Minimal" xml:space="preserve">
+    <value>最小</value>
+  </data>
+	<data name="Auto hide" xml:space="preserve">
+    <value>自動で隠す</value>
+  </data>
+  <data name="Windows default" xml:space="preserve">
+    <value>Windows標準</value>
+  </data>
+  <data name="Rounded corners" xml:space="preserve">
+    <value>ウィンドウ4隅を丸くする</value>
+  </data>
+  <data name="Information displayed" xml:space="preserve">
+    <value>表示情報</value>
+  </data>
+	<data name="More settings" xml:space="preserve">
+    <value>その他設定</value>
+  </data>
+  	<data name="Configure toolbar" xml:space="preserve">
+    <value>ツールバー設定</value>
+  </data>
+	<data name="Show toolbar" xml:space="preserve">
+    <value>ツールバー表示</value>
+  </data>
+	<data name="Show thumbnails" xml:space="preserve">
+    <value>サムネイル表示</value>
+  </data>
+	<data name="Always hide thumbnails automatically" xml:space="preserve">
+    <value>サムネイルを自動で常に隠す</value>
+  </data>
+	<data name="Language" xml:space="preserve">
+    <value>言語</value>
+  </data>
+	<data name="Import language" xml:space="preserve">
+    <value>言語インポート</value>
+  </data>
+	<data name="Auto select" xml:space="preserve">
+    <value>自動選択</value>
+  </data>
+	<data name="Language already exist. Do you want to overwrite?" xml:space="preserve">
+    <value>言語設定を上書きして閉じますか？</value>
+  </data>
+	<data name="Restart One Photo Viewer to apply language." xml:space="preserve">
+    <value>One Photo Viewerを再起動します。</value>
+  </data>
+	<data name="Window color theme" xml:space="preserve">
+    <value>ウィンドウ色テーマ</value>
+  </data>
+	<data name="Dark mode" xml:space="preserve">
+    <value>ダークモード</value>
+  </data>
+	<data name="Light mode" xml:space="preserve">
+    <value>ライトモード</value>
+  </data>
+	<data name="Mixed mode" xml:space="preserve">
+    <value>混合モード</value>
+  </data>
+  <data name="Max step/s" xml:space="preserve">
+    <value>Max images per second</value>
+  </data>
+  <data name="Jpeg quality when saving" xml:space="preserve">
+    <value>Quality when saving JPEG</value>
+  </data>
+  <data name="View on Google maps" xml:space="preserve">
+    <value>GoogleMapで見る</value>
+  </data>
+    <data name="View image information" xml:space="preserve">
+    <value>画像情報表示</value>
+  </data>
+  	<data name="Switch view" xml:space="preserve">
+    <value>Switch view</value>
+  </data>
+  <data name="Short app name" xml:space="preserve">
+    <value>アプリ名を略称</value>
+  </data>
+	<data name="Zoom level" xml:space="preserve">
+    <value>拡大レベル</value>
+  </data>
+	<data name="Filename" xml:space="preserve">
+    <value>ファイル名</value>
+  </data>
+	<data name="Date taken" xml:space="preserve">
+    <value>撮影日</value>
+  </data>
+	<data name="Time taken" xml:space="preserve">
+    <value>撮影時刻</value>
+  </data>
+	<data name="Image description" xml:space="preserve">
+    <value>画像説明</value>
+  </data>
+  <data name="Sort images as in Explorer" xml:space="preserve">
+    <value>Sort images as in Explorer</value>
+  </data>
+  <data name="Note! In rare cases, this sorting method can slow down the opening of images and must be turned off again manually. See onephotoviewer.com/how-to/" xml:space="preserve">
+    <value>Note! In rare cases, this sorting method can slow down the opening of images and must be turned off again manually. See onephotoviewer.com/how-to/</value>
+  </data>
+	<data name="Move/zoom entire window" xml:space="preserve">
+    <value>Move/zoom entire window</value>
+  </data>
+	<data name="Always on top" xml:space="preserve">
+    <value>ウィンドウを常に先頭</value>
+  </data>
+	<data name="Remember size" xml:space="preserve">
+    <value>ウィンドウサイズを記憶</value>
+  </data>
+	<data name="Remember position" xml:space="preserve">
+    <value>ウィンドウ位置を記憶</value>
+  </data>
+	<data name="Remember full screen" xml:space="preserve">
+    <value>フルスクリーンを記憶</value>
+  </data>
+	<data name="Remember background" xml:space="preserve">
+    <value>背景を記憶</value>
+  </data>
+	<data name="Loop loaded images" xml:space="preserve">
+    <value>Loop loaded images</value>
+  </data>
+	<data name="Switch images with mouse wheel" xml:space="preserve">
+    <value>Switch images with mouse wheel</value>
+  </data>
+	<data name="Open small images outstretched" xml:space="preserve">
+    <value>Open small images outstretched</value>
+  </data>
+	<data name="Auto hide prev/next buttons" xml:space="preserve">
+    <value>Auto hide prev/next buttons</value>
+  </data>
+	<data name="File size" xml:space="preserve">
+    <value>ファイルサイズ</value>
+  </data>
+	<data name="Pixel dimensions" xml:space="preserve">
+    <value>Pixel dimensions</value>
+  </data>
+	<data name="Lock aspect ratio" xml:space="preserve">
+    <value>アスペクト比を固定</value>
+  </data>
+	<data name="Viewer color correction" xml:space="preserve">
+    <value>Viewer color correction</value>
+  </data>
+	<data name="Note: Decreased performance when changed." xml:space="preserve">
+    <value>Note: Decreased performance when changed.</value>
+  </data>
+	<data name="Changes might affect image color adjustment." xml:space="preserve">
+    <value>Changes might affect image color adjustment.</value>
+  </data>
+	<data name="Reset raw format support" xml:space="preserve">
+    <value>Reset raw format support</value>
+  </data>
+	<data name="Print" xml:space="preserve">
+    <value>印刷</value>
+  </data>
+	<data name="Help" xml:space="preserve">
+    <value>ヘルプ</value>
+  </data>
+	<data name="Exit" xml:space="preserve">
+    <value>終了</value>
+  </data>
+	<data name="Save" xml:space="preserve">
+    <value>（上書き）保存</value>
+  </data>
+	<data name="Overwrite existing file?" xml:space="preserve">
+    <value>ファイルを上書きしますか？</value>
+  </data>
+	<data name="Never show this question again" xml:space="preserve">
+    <value>質問をもう一度聞かない</value>
+  </data>
+	<data name="Yes" xml:space="preserve">
+    <value>はい</value>
+  </data>
+	<data name="No" xml:space="preserve">
+    <value>いいえ</value>
+  </data>
+	<data name="Previous image" xml:space="preserve">
+    <value>Previous image</value>
+  </data>
+	<data name="Next image" xml:space="preserve">
+    <value>Next image</value>
+  </data>
+	<data name="Fullscreen" xml:space="preserve">
+    <value>フルスクリーン</value>
+  </data>
+	<data name="Hide crop tool" xml:space="preserve">
+    <value>Hide tool</value>
+  </data>
+	<data name="Close" xml:space="preserve">
+    <value>閉じる</value>
+  </data>
+	<data name="Cancel" xml:space="preserve">
+    <value>キャンセル</value>
+  </data>
+	<data name="Default" xml:space="preserve">
+    <value>デフォルト</value>
+  </data>
+	<!-- Other things -->
+	<data name="No Image" xml:space="preserve">
+    <value>No Image</value>
+  </data>
+	<data name="updated" xml:space="preserve">
+    <value>updated</value>
+  </data>
+	<data name="Pressing Shift key at start resets config file." xml:space="preserve">
+    <value>Pressing Shift key at start resets config file.</value>
+  </data>
+	<data name="Don't prompt for this version again" xml:space="preserve">
+    <value>Don't prompt for this version again</value>
+  </data>
+	<data name="Image to smal" xml:space="preserve">
+    <value>Image to smal</value>
+  </data>
+	<data name="Only resize up to 200%" xml:space="preserve">
+    <value>Only resize up to 200%</value>
+  </data>
+	<data name="Only resize down to 10%" xml:space="preserve">
+    <value>Only resize down to 10%</value>
+  </data>
+	<data name="Invalid value" xml:space="preserve">
+    <value>Invalid value</value>
+  </data>
+	<data name="Config file error." xml:space="preserve">
+    <value>Config file error.</value>
+  </data>
+	<data name="File reseted to default." xml:space="preserve">
+    <value>File reseted to default.</value>
+  </data>
+	<data name="All files" xml:space="preserve">
+    <value>All files</value>
+  </data>
+	<data name="Are you sure you want to remove image permanently?" xml:space="preserve">
+    <value>Are you sure you want to remove image permanently?</value>
+  </data>
+	<data name="Delete File" xml:space="preserve">
+    <value>Delete File</value>
+  </data>
+	<data name="Are you sure you want to move image to the Recycle Bin?" xml:space="preserve">
+    <value>Are you sure you want to move image to the Recycle Bin?</value>
+  </data>
+	<data name="Clear logfile" xml:space="preserve">
+    <value>Clear logfile</value>
+  </data>
+	<data name="Crash report" xml:space="preserve">
+    <value>Crash report</value>
+  </data>
+	<data name="Copy text" xml:space="preserve">
+    <value>Copy text</value>
+  </data>
+	<data name="View crash report" xml:space="preserve">
+    <value>View crash report</value>
+  </data>
+	<!-- Make GIF window, Ctrl+G -->
+	<data name="Make GIF animation from loaded images" xml:space="preserve">
+    <value>Make GIF animation from loaded images</value>
+  </data>
+	<data name="Color depth is reduced to 256 colors." xml:space="preserve">
+    <value>Color depth is reduced to 256 colors.</value>
+  </data>
+	<data name="Frame delay (ms), minimum 20ms" xml:space="preserve">
+    <value>Frame delay (ms), minimum 20ms</value>
+  </data>
+	<data name="Height limit (pixels)" xml:space="preserve">
+    <value>Height limit (pixels)</value>
+  </data>
+	<data name="Width limit (pixels)" xml:space="preserve">
+    <value>Width limit (pixels)</value>
+  </data>
+	<data name="Invalid input" xml:space="preserve">
+    <value>Invalid input</value>
+  </data>
+	<data name="Making GIF.." xml:space="preserve">
+    <value>Making GIF..</value>
+  </data>
+	<data name="Processing GIF animation..." xml:space="preserve">
+    <value>Processing GIF animation...</value>
+  </data>
+	<data name="Save to file" xml:space="preserve">
+    <value>Save to file</value>
+  </data>
+	<!-- Print preview, Ctrl+P -->
+	<data name="Print preview" xml:space="preserve">
+    <value>Print preview</value>
+  </data>
+	<data name="Portrait" xml:space="preserve">
+    <value>Portrait</value>
+  </data>
+	<data name="Landscape" xml:space="preserve">
+    <value>Landscape</value>
+  </data>
+	<data name="Center vertical" xml:space="preserve">
+    <value>Center vertical</value>
+  </data>
+	<data name="Center horizontal" xml:space="preserve">
+    <value>Center horizontal</value>
+  </data>
+	<data name="Margin" xml:space="preserve">
+    <value>マージン</value>
+  </data>
+	<data name="Scale (%)" xml:space="preserve">
+    <value>スケール (%)</value>
+  </data>
+  	<data name="Continue" xml:space="preserve">
+    <value>Continue</value>
+  </data>
+	<!-- Keyboard shortcuts, change if necessary -->
+	<data name="(Ctrl+C)" xml:space="preserve">
+    <value>(Ctrl+C)</value>
+  </data>
+	<data name="(Ctrl+V)" xml:space="preserve">
+    <value>(Ctrl+V)</value>
+  </data>
+	<data name="(Ctrl+O)" xml:space="preserve">
+    <value>(Ctrl+O)</value>
+  </data>
+	<data name="(Ctrl+S)" xml:space="preserve">
+    <value>(Ctrl+S)</value>
+  </data>
+	<data name="(AltGr+S)" xml:space="preserve">
+    <value>(AltGr+S)</value>
+  </data>
+	<data name="(Ctrl+B)" xml:space="preserve">
+    <value>(Ctrl+B)</value>
+  </data>
+	<data name="(Del)(Shift+Del)" xml:space="preserve">
+    <value>(Del)(Shift+Del)</value>
+  </data>
+	<data name="(Enter)" xml:space="preserve">
+    <value>(Enter)</value>
+  </data>
+	<data name="(Ctrl+Left)" xml:space="preserve">
+    <value>(Ctrl+Left)</value>
+  </data>
+	<data name="(Ctrl+Right)" xml:space="preserve">
+    <value>(Ctrl+Right)</value>
+  </data>
+	<data name="(Ctrl+R)" xml:space="preserve">
+    <value>(Ctrl+R)</value>
+  </data>
+	<data name="(Ctrl+Q)" xml:space="preserve">
+    <value>(Ctrl+Q)</value>
+  </data>
+	<data name="(Ctrl+W)" xml:space="preserve">
+    <value>(Ctrl+W)</value>
+  </data>
+	<data name="(Ctrl+D)" xml:space="preserve">
+    <value>(Ctrl+D)</value>
+  </data>
+	<data name="(Ctrl+P)" xml:space="preserve">
+    <value>(Ctrl+P)</value>
+  </data>
+	<data name="(Ctrl+E)" xml:space="preserve">
+    <value>(Ctrl+E)</value>
+  </data>
+	<data name="(Ctrl+F)" xml:space="preserve">
+    <value>(Ctrl+F)</value>
+  </data>
+	<data name="(Ctrl+1)" xml:space="preserve">
+    <value>(Ctrl+1)</value>
+  </data>
+	<data name="(Ctrl+2)" xml:space="preserve">
+    <value>(Ctrl+2)</value>
+  </data>
+	<data name="(Ctrl+3)" xml:space="preserve">
+    <value>(Ctrl+3)</value>
+  </data>
+	<data name="(F1)" xml:space="preserve">
+    <value>(F1)</value>
+  </data>
+	<data name="(F3)" xml:space="preserve">
+    <value>(F3)</value>
+  </data>
+	<data name="(F4)" xml:space="preserve">
+    <value>(F4)</value>
+  </data>
+	<data name="(Alt+F4)" xml:space="preserve">
+    <value>(Alt+F4)</value>
+  </data>
+	<data name="(F5)" xml:space="preserve">
+    <value>(F5)</value>
+  </data>
+	<data name="(F6)" xml:space="preserve">
+    <value>(F6)</value>
+  </data>
+	<data name="(F7)" xml:space="preserve">
+    <value>(F7)</value>
+  </data>
+	<data name="(Ctrl+F6)" xml:space="preserve">
+    <value>(Ctrl+F6)</value>
+  </data>
+	<data name="(Ctrl+F7)" xml:space="preserve">
+    <value>(Ctrl+F7)</value>
+  </data>
+	<data name="(F8)(Ctrl+F8)" xml:space="preserve">
+    <value>(F8)(Ctrl+F8)</value>
+  </data>
+	<data name="(F9/F10)(Space)" xml:space="preserve">
+    <value>(F9/F10)(Space)</value>
+  </data>
+	<data name="(F12)" xml:space="preserve">
+    <value>(F12)</value>
+  </data>
+  <!-- Do not change these -->
+  <data name="help_page" >
+    <value>help_page.html</value>
+  </data>
+  <data name="NoImage_pic" >
+    <value>noimage.png</value>
+  </data>
+  <data name="update_page" >
+    <value>update_page.html</value>
+  </data>
+</root>
